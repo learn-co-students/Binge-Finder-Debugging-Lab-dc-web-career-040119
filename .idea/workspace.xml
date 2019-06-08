@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="618e2143-8428-4bf4-873b-278f3b4743d2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Adapter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Adapter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Episode.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Episode.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Filter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/SelectedShowContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/SelectedShowContainer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/TVShow.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/TVShow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/TVShowList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/TVShowList.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +12,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Components/App.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
@@ -64,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Components/TVShow.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            <state relative-caret-position="135">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -91,10 +84,10 @@
         <option value="$PROJECT_DIR$/src/Components/TVShowList.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/Adapter.js" />
-        <option value="$PROJECT_DIR$/src/Components/TVShow.js" />
         <option value="$PROJECT_DIR$/src/Components/Episode.js" />
         <option value="$PROJECT_DIR$/src/Components/SelectedShowContainer.js" />
         <option value="$PROJECT_DIR$/src/Components/App.js" />
+        <option value="$PROJECT_DIR$/src/Components/TVShow.js" />
       </list>
     </option>
   </component>
@@ -105,8 +98,8 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -171,12 +164,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559932169101</updated>
-      <workItem from="1559932170327" duration="9822000" />
+      <workItem from="1559932170327" duration="10389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9822000" />
+    <option name="totallyTimeSpent" value="10389000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -249,13 +242,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/TVShow.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/TVShowList.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -290,6 +276,13 @@
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/TVShow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
